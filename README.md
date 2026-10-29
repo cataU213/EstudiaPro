@@ -22,10 +22,6 @@ La aplicación cuenta con una interfaz visual de colores pastel, un fondo floral
   </a>
 </p>
 
-**Acceso directo:** [Abrir EstudiaPro en el navegador](https://estudiapro-hpws92lwj-catalina-755c.vercel.app/)
-
----
-
 ## ✨ Funcionalidades principales
 
 - 📅 Organización de materias de lunes a viernes.
@@ -111,16 +107,6 @@ Para probar la versión web localmente:
 ```bash
 npx expo start --web
 ```
-
-## 🌐 Publicación web
-
-La versión web de EstudiaPro está publicada mediante Vercel.
-
-- **Aplicación online:** [Ver EstudiaPro](https://estudiapro-hpws92lwj-catalina-755c.vercel.app/)
-- **Repositorio del proyecto:** [GitHub - EstudiaPro](https://github.com/cataU213/EstudiaPro)
-
-El botón de acceso online permite abrir la aplicación directamente desde el README de GitHub.
-
 ## 🎓 Propósito académico
 
 EstudiaPro forma parte de un proyecto académico orientado a aplicar los conocimientos de desarrollo de aplicaciones móviles mediante React Native y Expo.
