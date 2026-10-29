@@ -8,21 +8,21 @@ La aplicación cuenta con una interfaz visual de colores pastel, un fondo floral
 
 ---
 
-## 🌷 Ver el proyecto
+## 🌷 Ver el proyecto online
 
 <p align="center">
-  <a href="REEMPLAZAR_CON_LA_URL_PUBLICA_DE_ESTUDIAPRO">
+  <a href="https://estudiapro-hpws92lwj-catalina-755c.vercel.app/">
     <img src="https://img.shields.io/badge/🌸_VER_ESTUDIAPRO_ONLINE-D9AA98?style=for-the-badge&labelColor=754F43" alt="Ver EstudiaPro online"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cataU213/EstudiaPro">
-    <img src="https://img.shields.io/badge/VER_CÓDIGO_FUENTE-GitHub-754F43?style=for-the-badge&logo=github&logoColor=white" alt="Ver código fuente"/>
+    <img src="https://img.shields.io/badge/VER_CÓDIGO_FUENTE-GitHub-754F43?style=for-the-badge&logo=github&logoColor=white" alt="Ver código fuente en GitHub"/>
   </a>
 </p>
 
-> El botón de acceso online necesita la dirección pública que obtendremos al publicar la versión web de la aplicación.
+**Acceso directo:** [Abrir EstudiaPro en el navegador](https://estudiapro-hpws92lwj-catalina-755c.vercel.app/)
 
 ---
 
@@ -43,6 +43,7 @@ La aplicación cuenta con una interfaz visual de colores pastel, un fondo floral
 - **JavaScript:** programación de las funciones y la interacción.
 - **React Navigation:** navegación entre las diferentes pantallas.
 - **Git y GitHub:** control de versiones y almacenamiento del código fuente.
+- **Vercel:** publicación de la versión web.
 
 ## 📖 Conceptos de programación aplicados
 
@@ -105,23 +106,28 @@ npm install
 npx expo start
 ```
 
-Para probar la versión web:
+Para probar la versión web localmente:
 
 ```bash
 npx expo start --web
 ```
 
-## 🌐 Publicación de la versión web
+## 🌐 Publicación web
 
-Para habilitar el botón «Ver EstudiaPro online», se debe generar la versión web y publicarla en un servicio de alojamiento.
+La versión web de EstudiaPro está publicada mediante Vercel.
 
-El enlace público se incorporará a este README una vez completada la publicación.
+- **Aplicación online:** [Ver EstudiaPro](https://estudiapro-hpws92lwj-catalina-755c.vercel.app/)
+- **Repositorio del proyecto:** [GitHub - EstudiaPro](https://github.com/cataU213/EstudiaPro)
+
+El botón de acceso online permite abrir la aplicación directamente desde el README de GitHub.
 
 ## 🎓 Propósito académico
 
 EstudiaPro forma parte de un proyecto académico orientado a aplicar los conocimientos de desarrollo de aplicaciones móviles mediante React Native y Expo.
 
-Durante su elaboración se trabajó con componentes de interfaz, estilos, eventos de pulsación, entrada de texto, estado y navegación entre pantallas.
+Durante su elaboración se trabajó con componentes de interfaz, estilos, eventos de pulsación, entrada de texto, manejo del estado y navegación entre pantallas.
+
+El proyecto busca demostrar cómo estos conceptos pueden integrarse para desarrollar una aplicación útil para la organización de las actividades estudiantiles.
 
 ## 👩‍💻 Autora
 
